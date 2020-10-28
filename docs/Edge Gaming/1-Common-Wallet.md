@@ -1,5 +1,5 @@
 ---
-tags: [Vela Gaming, Common Wallet]
+tags: [Edge Gaming, Common Wallet]
 ---
 
 ![Vela Gaming](../../assets/images/vela_gaming/logo.jpg)
