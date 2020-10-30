@@ -79,7 +79,7 @@ title: Docs 文件
 
 > ##### Example 例子
 >
-> https://{OPERATOR_API_ENDPOINT}/api/user/authenticate?access_token={access_token}&game_code=fish
+> https://{OPERATOR_API_ENDPOINT}/api/user/authenticate?access_token={access_token}
 
 ### Response 响应
 

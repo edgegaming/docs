@@ -56,7 +56,7 @@ title: Docs
 
 > ##### Example
 >
-> <https://{OPERATOR_API_ENDPOINT}/api/user/authenticate?{access_token}
+> https://{OPERATOR_API_ENDPOINT}/api/user/authenticate?{access_token}
 
 ### Response
 
