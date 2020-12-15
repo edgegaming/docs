@@ -87,7 +87,6 @@ title: Docs 文件
 | ----------- | ------ | ----------------------- |
 | status_code | int    | Response status code<b>响应状态代码    |
 | member_id   | string | Unique ID of the player<b>玩家唯一ID |
-| balance     | uint64 | Current **Balance** of the player (in cents) |
 | currency    | string | Currency code is referred to ISO 4217<b>货币代码可参考ISO 4217           |
 
 #### Status Code 状态代码
@@ -108,7 +107,6 @@ title: Examples 例子
 {
   "status_code": 0,
   "member_id": "demo01",
-  "balance": 100000,
   "currency": "MYR"
 }
 ```
