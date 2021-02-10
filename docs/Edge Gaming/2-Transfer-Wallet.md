@@ -425,6 +425,7 @@ title: Docs 文件
 | 0    | Success<b>成功                    |
 | 1    | Invalid Member ID<b>玩家账号无效          |
 | 2    | Invalid Host ID<b>Host ID 无效            |
+| 3    | Insufficient Funds<b>余数不足            |
 
 <!--
 type: tab
